@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Raquel GG/ninja_character/DemoScenes/DemoCharacter.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
